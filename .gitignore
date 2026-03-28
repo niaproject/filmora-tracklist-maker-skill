@@ -1,0 +1,12 @@
+# Filmora project files
+*.wfp
+
+# Generated tracklists
+*.txt
+*.csv
+
+# Claude memory
+.claude/projects/
+
+# Claude local settings
+.claude/settings.local.json
