@@ -1,4 +1,4 @@
-# Filmora TrackList Maker
+# Filmora TrackList Maker Skill
 
 Filmora動画編集プロジェクトファイル（`.wfp`）を解析し、使用されている音楽トラックの一覧をテキスト形式で出力するツールです。
 
@@ -13,8 +13,8 @@ Res     : 1920x1080
 ============================================================
 
 [AUDIO Track 1]
-   1. 00:03:14  02-0923-s. Rise With the Dawn
-   2. 00:09:50  04-0923-a. Chasing Tomorrow
+   1. 00:03:14  Rise With the Dawn
+   2. 00:09:50  Chasing Tomorrow
    ...
 
 ============================================================
